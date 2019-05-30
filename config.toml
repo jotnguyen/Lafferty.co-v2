@@ -1,4 +1,4 @@
-baseURL = "lafferty.co"
+baseURL = "https://lafferty.co"
 title = "Nick Lafferty"
 theme = "manis"
 
