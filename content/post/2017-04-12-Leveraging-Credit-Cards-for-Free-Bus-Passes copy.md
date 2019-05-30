@@ -2,7 +2,7 @@
 title = "How To Get Free Bus Passes"
 date = "2019-05-29T08:53:11-05:00"
 description = "How to get free bus passes in Austin and other places."
-draft = true
+draft = false
 +++
 
 # How to get Free Bus Passes in Austin (and other places)
