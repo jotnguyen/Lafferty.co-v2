@@ -7,7 +7,7 @@ draft = false
 
 # How to get Free Bus Passes in Austin (and other places)
 
-<img src="http://i.imgur.com/9raosbX.png" alt="Barclays Arrival" style="width: 700px" />
+<img src="https://i.imgur.com/9raosbX.png" alt="Barclays Arrival" style="width: 700px" />
 
 **Disclaimer**: I do not get a referral bonus, or any sort of monetary compensation, for writing this. I simply want to share a cool money saving tip with my friends. Please do your own research before attemping this.
 
@@ -63,9 +63,9 @@ Next, I purchased 6 more bus passes for a total of $198. After the purchases pos
 
 My specific example is for the local busses here in Austin, but this will work anywhere you can buy bus passes that post as a travel expense. Buying them directly from your local Transit Authority will almost always work, but make sure to be 100% certain before you dive in. Try searching online to see if someone else has tried this, or leave a comment and I'll try and help!
 
-[1]: http://www.barclaycardarrival.com/arrival-travel/?campaignId=2044&cellNumber=1
-[2]: http://www.barclaycardarrival.com/arrival-plus/?campaignId=2043&cellNumber=9
-[3]: http://www.barclaycardtravel.com/
+[1]: https://www.barclaycardarrival.com/arrival-travel/?campaignId=2044&cellNumber=1
+[2]: https://www.barclaycardarrival.com/arrival-plus/?campaignId=2043&cellNumber=9
+[3]: https://www.barclaycardtravel.com/
 [4]: https://www.google.com/maps/place/Capital+Metro/@30.2676883,-97.7474213,16z/data=!4m5!1m2!2m1!1scapital+metro+transit+store!3m1!1s0x0000000000000000:0x8df332980f4b004b
-[5]: http://i.imgur.com/uIvQxSG.png
-[6]: http://i.imgur.com/hwMHWFI.png
+[5]: https://i.imgur.com/uIvQxSG.png
+[6]: https://i.imgur.com/hwMHWFI.png
