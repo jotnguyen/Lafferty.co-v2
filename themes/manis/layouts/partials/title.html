@@ -12,9 +12,10 @@
 	<h5>
 		{{ $dateformat := .Site.Params.DateFmt | default "Jan 02, 2006" }}
 		<time datetime="{{.Date}}">{{ .Date.Format $dateformat }}</time>
+		<span> | {{ .WordCount }} Words | {{ .ReadingTime }} minutes to read</span>
 		<span class="no-print">
 			{{ with .Params.tags -}}
-				{{ range . }} -
+				{{ range . }} |
 				<a href="/tags/{{.}}">{{.}}</a>
 				{{ end }}
 			{{- end -}}
