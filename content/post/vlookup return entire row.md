@@ -4,7 +4,7 @@ title = "[Google Sheets] Vlookup an Entire Row"
 date = "2019-06-01"
 description = "How to Vlookup an entire row in Google Sheets"
 draft = false
-tags = [“sheets”]
+tags = ["sheets"]
 
 +++
 
