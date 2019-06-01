@@ -4,6 +4,7 @@ title = "[Google Sheets] Vlookup an Entire Row"
 date = "2019-06-01"
 description = "How to Vlookup an entire row in Google Sheets"
 draft = false
+tags = [“sheets”]
 
 +++
 
@@ -16,6 +17,8 @@ This takes the value in `A1`, searches for it in the array `Sheet2!A3:G6`, and r
 That formula will break if you add any columns, if that happens try this instead:
 
 `=ARRAYFORMULA(VLOOKUP(A1,'Sheet2'!A3:G6,COLUMN(B3:G6),FALSE))`
+
+**Longer Explanation**
 
 I’ve gotten to know Vlookups really well over the years. If you need a quick refresher, Vlookup is a great way to match data aross columns or spreadsheets quickly. It takes a value in one column, finds it’s exact match value in a an array of columns, and returns a specific value in that array that has the same row of your specific value. 
 
