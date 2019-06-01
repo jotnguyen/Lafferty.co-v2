@@ -38,4 +38,4 @@ I used it in conjunction with tranpose to return the results vertically instead 
 
 
 
-**Is there a better way to do this? Drop me a note: nick@lafferty.co**
+**Is there a better way to do this? <a href="mailto:nick@lafferty.co">Drop me a note</a>**

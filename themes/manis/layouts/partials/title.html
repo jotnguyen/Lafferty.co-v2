@@ -14,8 +14,7 @@
 		<time datetime="{{.Date}}">{{ .Date.Format $dateformat }}</time>
 		<span class="no-print">
 			{{ with .Params.tags -}}
-			-
-				{{ range . }}
+				{{ range . }} -
 				<a href="/tags/{{.}}">{{.}}</a>
 				{{ end }}
 			{{- end -}}
