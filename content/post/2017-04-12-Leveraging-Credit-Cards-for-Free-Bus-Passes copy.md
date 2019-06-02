@@ -11,7 +11,7 @@ tags = ["credit cards"]
 
 <img src="https://i.imgur.com/9raosbX.png" alt="Barclays Arrival" style="width: 700px" />
 
-**Disclaimer**: I do not get a referral bonus, or any sort of monetary compensation, for writing this. I simply want to share a cool money saving tip with my friends. Please do your own research before attemping this.
+**Disclaimer**: I do not get a referral bonus, or any sort of monetary compensation, for writing this. I simply want to share a cool money saving tip with my friends. Please do your own research.
 
 Until recently I used my debit card for eveything, but debit cards don't give you any real benefit for using them, and they're actually more risky than credit cards if someone steals your card information. Credit cards offer protection incase of stolen information and if you can manage your money, then leveraging credit card offers offer significant benefits. Put another way, using debit cards for every purchase leaves *money on the table.*
 

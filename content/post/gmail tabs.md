@@ -18,7 +18,7 @@ Often when a co-worker would present during a meeting I would see they had a sim
 
 I recently quit this habit so I wanted to share how and why I did that.
 
-The why for me was the easier of the two. **I wanted to stop being a slave to my inbox.**
+The why for me was easier: **I wanted to stop being a slave to my inbox.**
 
 First thing in the morning I would check both emails. Right before bed. In the bathroom. During dinner.
 
@@ -28,11 +28,9 @@ First thing in the morning I would check both emails. Right before bed. In the b
 
 Honestly I don’t even receive that many emails. I think I just got addicted to the dopamine hit seeing a **(1)** in that tab.
 
-The how was trickier. I recently started a new job and wanted to use it as a catalyst to change my email habits. On my first day my boss told me she is best reached over Slack because she only checks email 3 times a day at most.
+How to quit was trickier. I recently started a new job and wanted to use it as a catalyst to change my email habits. On my first day my boss told me she is best reached over Slack because she only checks email 3 times a day at most.
 
-That sounded like bliss.
-
-However, success required a few items.
+That sounded like bliss. Here's how I replaced my gmail sandwich:
 
 1. Finding a suitable email app to replace the gmail tabs
 2. Removing my work email from my phone
