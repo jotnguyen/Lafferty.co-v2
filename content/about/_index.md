@@ -7,7 +7,7 @@ draft = false
 
 ## Hi, I’m Nick.
 
-I am a digital marketer with a passion for technology and SaaS products based in Austin, Texas. Currently I am running paid media for [Mailgun](https://mailgun.com). My expertese is in lead generation through paid channels: Search, Display, Social. 
+I am a digital marketer with a passion for technology and SaaS products based in Austin, Texas. I am the paid media manager for [Mailgun](https://mailgun.com) and my background is in lead generation. 
 
 I enjoy building charts, dashboards, tinkering with websites, and solving problems.      
 
