@@ -4,7 +4,8 @@ title = "Close Your Open Gmail Tabs"
 date = "2019-05-29T08:53:11-05:00"
 description = "How to quit having Gmail perpetually open, aka the Gmail sandwich."
 draft = false
-tags = "work"
+tags = ["work"]
+
 +++
 
 If you’re like me and you work for a company that uses the G Apps Suite, then you probably have at least one Gmail tab open at all times. For me it became a comfort tab — always there, just waiting for me to click it to check my email 100 times a day.
