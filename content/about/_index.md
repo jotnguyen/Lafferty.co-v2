@@ -11,5 +11,5 @@ I am a digital marketer with a passion for technology and SaaS products based in
 
 I enjoy building charts, dashboards, tinkering with websites, and solving problems.      
 
-This website is built with [Hugo](https://gohugo.io), [Netlify](https://netlify.com), and the source is available [Github](https://github.com/NLaff/lafferty.co-v2).
+This website is built with [Hugo](https://gohugo.io) and [Netlify](https://netlify.com), and the source is available [Github](https://github.com/NLaff/lafferty.co-v2).
 
