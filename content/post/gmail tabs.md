@@ -34,9 +34,9 @@ That sounded like bliss.
 
 However, success required a few items.
 
-\1. Finding a suitable email app to replace the gmail tabs
-\2. Removing my work email from my phone
-\3. (Optional) Finding a replacement for Apple Calendar if want.
+1. Finding a suitable email app to replace the gmail tabs
+2. Removing my work email from my phone
+3. (Optional) Finding a replacement for Apple Calendar if want.
 
 If the circumstances of your job don’t allow you to do 2, then I would recommend disabling all notifications for your work email, Setup a calendar reminder several times a day that reminds you to pop into the app and check. I had to take the extreme route because I knew I wouldn’t be able to control myself.
 
