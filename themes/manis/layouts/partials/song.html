@@ -1,0 +1,18 @@
+<script>
+	var footer = document.querySelector('h6');
+    var requestURL = 'https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=nicklafferty&api_key=d4a484debbd8bf1b109506b66e7256bd&limit=1&format=json'
+    var request = new XMLHttpRequest();
+    request.open('GET', requestURL);
+    request.responseType = 'json';
+    request.send();
+    request.onload = function() {
+      var lastfm = request.response;
+      populateHeader(lastfm);
+      showHeroes(lastfm);
+    }
+    function populateHeader(jsonObj) {
+      var myPara = document.createElement('p');
+      myPara.textContent = 'Currently listening to ' + jsonObj['recenttracks']['track'][0]['artist']['#text'] +' on Spotify';
+      footer.appendChild(myPara);
+    }
+</script>

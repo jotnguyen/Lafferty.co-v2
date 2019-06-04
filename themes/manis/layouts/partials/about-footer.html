@@ -1,0 +1,26 @@
+			<hr class="sep" />
+		</main>
+		<footer class="container no-print">
+			<div class="u-footer">
+				<h6>
+					{{ partial "song.html" . }}
+				</h6>
+				{{ partial "social.html" . }}
+				<p>
+					{{ with .Site.Copyright }}
+					{{ . | safeHTML }}
+					{{ end }}
+				</p>
+				{{ if ne .Kind "home" }}
+				<a href="#brand">
+					<img class="icon-text" src="/img/toup.svg" alt="To Up"/>
+					<span>{{ T "toUp" }}</span>
+				</a>
+				{{ end }}
+			</div>
+		</footer>
+		{{ if .Site.Params.HighlightJs }}
+		<script>hljs.initHighlightingOnLoad();</script>
+		{{ end }}
+	</body>
+</html>
