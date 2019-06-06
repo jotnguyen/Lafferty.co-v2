@@ -4,7 +4,7 @@
 	<h1>{{ .Site.Title }}</h1>
 	<h5>{{- with .Site.Params.Tagline -}}{{.}}{{- end -}}</h5>
 	<!-- Section List -->
-	{{- else if eq .Section "post" -}}
+	{{- else if eq .Section "page" -}}
 	<h1>Blog</h1> 
 	{{- else if ( or ( eq .Kind "section") ( eq .Kind "taxonomyTerm" ) ) -}}
 	<h1>{{ .Title }}</h1>
