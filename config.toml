@@ -15,6 +15,9 @@ disqusShortname = ""
 # Edit this if you want to translate your blog
 defaultContentLanguage = "en"
 
+# Google Analytics
+googleAnalytics = "UA-41742013-1"
+
 # Code Highlighting (Chroma)
 pygmentsCodeFences = true
 pygmentsUseClasses = true
