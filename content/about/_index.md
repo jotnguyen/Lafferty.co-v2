@@ -8,7 +8,7 @@ layout = "about"
 
 ## Hi, I’m Nick.
 
-I am a digital marketer with a passion for technology and SaaS products based in Austin, Texas. Currently working at [Mailgun](https://mailgun.com) where I'm helping define and execute our digital marketing strategy. 
+I am a digital marketer with a passion for technology and SaaS products based in Austin, Texas. I currently work at [Mailgun](https://mailgun.com) where I'm helping define and execute our digital marketing strategy. 
 
 I enjoy building charts and dashboards, tinkering with websites, and solving problems.  
 
