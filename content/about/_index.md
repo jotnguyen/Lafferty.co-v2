@@ -14,3 +14,5 @@ I enjoy building charts and dashboards, tinkering with websites, and solving pro
 
 This website is built with [Hugo](https://gohugo.io) and [Netlify](https://netlify.com), and the source is available [Github](https://github.com/NLaff/lafferty.co-v2).
 
+Do you need help generating more leads, running paid search campaigns, or building a website? [Send me an email.](mailto:nick@lafferty.co)
+
