@@ -25,7 +25,7 @@ pygmentsUseClasses = true
 [menu]
 	[[menu.main]]
 		name = "Blog"
-		url = "/post/"
+		url = "/blog/"
 	
 	[[menu.main]]
 		name = "About"
@@ -52,7 +52,7 @@ pygmentsUseClasses = true
 	licenseURL = "/about/license"
 
 	# Configure which section for Latest Posts
-	postSection = "post"
+	postSection = "blog"
 	# Configure which section for Latest Works
 	workSection = ""
 
