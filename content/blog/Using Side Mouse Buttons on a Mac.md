@@ -1,5 +1,5 @@
 +++
-title = "[Apps] How to use your gaming mouse side buttons on a mac. "
+title = "How to use your gaming mouse side buttons on a mac. "
 date = "2019-07-19"
 description = "You need an app to make those side buttons on a gaming mouse, like a Razer DeathAdder, work at all."
 draft = false

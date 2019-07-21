@@ -1,6 +1,6 @@
 +++
 
-title = "[Google Sheets] Vlookup an Entire Row"
+title = "How to Vlookup an Entire Row with Google Sheets"
 date = "2019-06-01"
 description = "How to Vlookup an entire row in Google Sheets"
 draft = false
