@@ -28,7 +28,7 @@ Next you'll want to go to the Receiving page in the interface. This is where you
 
 This is where you can forward all mail to a specific email address, or every message to any address at the domain, to another email address. In my example I forward one email on my custom domain to my gmail address. I recommend against forwarding all email to your domain, because spammers will send all kinds of junk to common names. I set this up as priority 1. Mailgun routes are processed in order, starting from 0. So I want my filtering rules to process first, and block any spam, and then if email passes my filters it will forward to my real email.
 
-1. Match Headers
+2. Match Headers
 
 I have 2 rules setup for this. I added the second one later after I kept getting a lot of spam that looked like forwarded emails, which all began with "re:". So I filtered out that phrase.
 
