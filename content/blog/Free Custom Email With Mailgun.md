@@ -18,7 +18,7 @@ But I don't want to forward everything. I want to stop some email before it gets
 
 Here's how I use Mailgun to do that.
 
-First, [add your domain to Mailgun.]([]()). They've written some great guides on how to do this so I won't repeat that here. You'll also want to verify ownership of your domain by adding a few DNS records. I wrote a [step-by-step guide here]([]()).
+First, [add your domain to Mailgun](https://help.mailgun.com/hc/en-us/articles/203637190-How-Do-I-Add-a-Domain-). They've written some great guides on how to do this so I won't repeat that here. You'll also want to verify ownership of your domain by adding a few DNS records. I wrote a [step-by-step guide here.](https://help.mailgun.com/hc/en-us/articles/360026833053-Domain-Verification-Walkthrough)
 
 I'd also recommend setting up 2FA on your account to make sure it's as secure as possible.
 
