@@ -79,7 +79,7 @@ pygmentsUseClasses = true
 	github = "https://github.com/NLaff"
 	linkedin = "https://linkedin.com/in/nicklafferty"
 
-	enableRobotsTXT = true
+	enableRobotsTXT = false
 	canonifyURLS = true
 
 
