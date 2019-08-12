@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+<article>
+	<header>
+		{{ partial "title" . }}
+        <a href="#">MorningSix</a>
+		{{ with .Content }}{{.}}{{ end }}
+        
+	</header>
+    <a href="/morningsix">MorningSix</a>
+	{{ partial "paginator" . }}
+</article>
+{{ partial "footer" . }}
