@@ -45,7 +45,11 @@
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="/js/mdb.min.js"></script>
   <!-- Pull API Key -->
-<script type='text/javascript' src='/js/secret.js'></script>
+<script>
+    let config = {
+        randomString : '{{ getenv "newsApiKey" }}'
+    }
+    </script>
   <!-- Call NewsAPI -->
   <script type="text/javascript" src="/js/main.js"></script>
 </body>

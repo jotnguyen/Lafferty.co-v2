@@ -3,7 +3,7 @@
 // Defining a baseURL and key to as part of the request URL
 
     let baseURL = 'https://newsapi.org/v2/top-headlines?';
-    let key = config.NewsAPIKey;
+    let key = config.randomString;
     let sources = ['abc-news','al-jazeera-english','ars-technica', 'bbc-news','cnn','espn','ign','msnbc','national-geographic','nfl-news','politico','techcrunch','the-new-york-times','the-verge','the-washington-post','wired'];
     let pageSize = 6;
 //    let language = 'en';

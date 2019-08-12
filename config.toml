@@ -88,7 +88,6 @@ pygmentsUseClasses = true
 	canonifyURLS = true
 
 
-
 # Language Configuration
 #[languages.in]
 #	lang = "in"
