@@ -2,16 +2,16 @@
 
 // Defining a baseURL and key to as part of the request URL
 
-    let baseURL = 'https://newsapi.org/v2/everything?';
+    let baseURL = 'https://newsapi.org/v2/top-headlines?';
     let key = config.NewsAPIKey;
     let sources = ['abc-news','al-jazeera-english','ars-technica', 'bbc-news','cnn','espn','ign','msnbc','national-geographic','nfl-news','politico','techcrunch','the-new-york-times','the-verge','the-washington-post','wired'];
     let pageSize = 6;
-    let language = 'en';
+//    let language = 'en';
 // yesterday's date
-    let date = new Date();
-    let nextDate = date.getDate() - 1;
-    date.setDate(nextDate);
-    var yesterday = date.toLocaleDateString();
+//    let date = new Date();
+//    let nextDate = date.getDate() - 1;
+//    date.setDate(nextDate);
+//    var yesterday = date.toLocaleDateString();
 
 // Grabbing DOM Elements
 
@@ -20,7 +20,7 @@
 // Construct URL
 
 
-     let url = baseURL + 'apiKey=' + key + '&sources=' + sources + '&pageSize=' + pageSize + '&language=' + language + '&from=' + yesterday + '&to=' + yesterday;
+     let url = baseURL + 'apiKey=' + key + '&sources=' + sources + '&pageSize=' + pageSize;
 
 
 // Use fetch() to make the request to the API
