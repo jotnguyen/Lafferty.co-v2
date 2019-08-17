@@ -1,4 +1,4 @@
-+++ title = "Intelligent Email Filtering with Mailgun" 
++++ title = "Intelligent Email Forwarding with Mailgun" 
 date = "2019-07-21" 
 description = "How to setup Mailgun as a free email server for your custom domain with smart filtering." 
 draft = false 
