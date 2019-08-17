@@ -7,4 +7,7 @@
 {{ with .Site.Params.Linkedin }}
 <a href="{{.}}"><img class="icon-social" src="/img/linkedin.svg" alt="Linked"/></a>
 {{ end }}
+{{ with .Site.Params.Dev }}
+<a href="{{.}}"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nick Lafferty's DEV Profile" height="30" width="30"></a>
+{{ end }}
 <a href="{{.Site.RSSLink}}" target="_blank"><img class="icon-social" src="/img/feed.svg" alt="Feed"></a>
