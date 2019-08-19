@@ -10,6 +10,8 @@ layout = "single"
 ## Current Projects
 
 
-* [Morning Edition](morningedition) - Start your morning with 6 popular articles from yesterday. 
+* [Morning Edition](morningedition) - Start your morning with 6 popular articles currently trending. 
+
+* [Miss Cody Retouch](https://misscody.com) - Portfolio website for my wife's photo retouching business. 
 
 
