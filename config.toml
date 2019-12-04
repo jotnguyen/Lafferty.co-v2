@@ -84,6 +84,7 @@ pygmentsUseClasses = true
 	github = "https://github.com/NLaff"
 	linkedin = "https://linkedin.com/in/nicklafferty"
     dev = "https://dev.to/nicklafferty"
+    medium = "https://medium.com/@NickLafferty"
 
 	enableRobotsTXT = true
 	canonifyURLS = true
