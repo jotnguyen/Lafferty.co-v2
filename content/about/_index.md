@@ -6,11 +6,11 @@ draft = false
 layout = "about"
 +++
 
-## Hi, I’m Nick.
+# Hi, I’m Nick Lafferty.
 
 I am a digital marketer with a passion for technology and SaaS products based in Austin, Texas. I currently work at [Mailgun](https://mailgun.com) where I'm helping define and execute our digital marketing strategy. 
 
-I enjoy building charts and dashboards, tinkering with websites, and solving problems.  
+I enjoy building charts and dashboards, tinkering with websites, and solving problems.
 
 This website is built with [Hugo](https://gohugo.io) and [Netlify](https://netlify.com), and the source is available [Github](https://github.com/NLaff/lafferty.co-v2).
 
