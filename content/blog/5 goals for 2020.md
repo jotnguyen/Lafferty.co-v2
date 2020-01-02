@@ -22,7 +22,7 @@ That's all going to change after my birthday. I'm going to count calories, drop 
 
 ### 2) Buy a house
 
-We're currently living in a rental house now. We signed a 2 year lease for a cheap house with the goal of saving up to buy our own. We're working with a realtor and have made 3 offers on house so far. 
+We're currently living in a rental house now. We signed a 2 year lease for a cheap house with the goal of saving up to buy our own. We're working with a realtor and have made 3 offers on houses so far. 
 
 We've lost every single offer.
 
