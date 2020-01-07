@@ -20,8 +20,7 @@ I'd even take the Nintendo on camping trips with me. I famously told my parents 
 
 In the early 2000s I got into online video games. I was lucky enough to have cable internet at the time which unlocked a whole new world to me. My first game of choice was Tribes 2, a team-based shooter game where you flew around with jetpacks killing the other team. Players tried to shoot each other in mid-air with blue laser discs shot from a gun called the Spinfuzor.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c399ef9-9b84-4fc4-bad7-af0873839093/648730boxart_160w.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c399ef9-9b84-4fc4-bad7-af0873839093/648730boxart_160w.jpg)
-
+![Tribes-2-cover.jpg](https://postimg.cc/gxBrfHrW)
 Tribes 2 Box, ign.com
 
 I eventually joined a clan called Warrior Nation, which was just a group of people who played the game together. Warrior Nation was also my first introduction to online voice chat. We used a program called TeamSpeak to talk to each other while we played.
@@ -36,7 +35,7 @@ It didn't, but the name stuck. I've been NoLimit in many different games ever si
 
 I also started making friends with the people I played with online. We'd exchange AIM screen names and keep in touch as we grew up. We'd move from game to game together. I've met many of them in person, back when [To Catch A Predator](https://en.wikipedia.org/wiki/To_Catch_a_Predator) was airing. Meeting strangers from the internet was not normal. I even flew to Canada one summer to visit 2 of my internet friends. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c342f7b-2a48-4d43-be03-99c0bd0ff930/Chris-Hansen-Take-A-Seat-Meme.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c342f7b-2a48-4d43-be03-99c0bd0ff930/Chris-Hansen-Take-A-Seat-Meme.jpg)
+![Chris-Hansen-Take-A-Seat-Meme.jpg](https://postimg.cc/QHhB5MvR)
 
 In high school I spent entire summers playing Counter-Strike, another tactical shooter, with my online friends. We'd gather together in [IRC channels](https://en.wikipedia.org/wiki/Internet_Relay_Chat) to find a team of 5 other players to scrimmage against. We played in official leagues against other teams to try and move up the standings. 
 
