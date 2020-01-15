@@ -34,7 +34,7 @@ There's one guy I followed on Instagram that specifically drove me to delete it.
 
 A fucking McLaren. 
 
-![McLaren]([https://i.postimg.cc/gJ5RN22y/SBM13-RAA7-KW006697-3faa6022056a8bcb.jpg](https://i.postimg.cc/gJ5RN22y/SBM13-RAA7-KW006697-3faa6022056a8bcb.jpg))
+![McLaren](https://i.postimg.cc/gJ5RN22y/SBM13-RAA7-KW006697-3faa6022056a8bcb.jpg)
 
 Don't get me wrong, he's hustled to get where he is today. He's put in the work and earned it. I'm happy for him, I really am. But seeing that shit in my feed does not bring me joy. It makes me angry, jealous, and resentful. 
 
