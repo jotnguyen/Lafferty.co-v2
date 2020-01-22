@@ -6,9 +6,7 @@ description = "I work for an email company. Here's the biggest mistake I see our
 draft = false
 tags = ["email"]
 
-+++
-
-I work for an email company. Here's the biggest mistake I see our users making. 
++++ 
 
 **Grow an email subscriber list**.
 
