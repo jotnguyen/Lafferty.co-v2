@@ -1,3 +1,13 @@
++++
+
+title = "Supercharge your email newsletter with this 1 tip"
+date = "2020-01-22"
+description = "I work for an email company. Here's the biggest mistake I see our users making. "
+draft = false
+tags = ["email"]
+
++++
+
 I work for an email company. Here's the biggest mistake I see our users making. 
 
 **Grow an email subscriber list**.
