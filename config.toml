@@ -3,7 +3,7 @@ title = "Nick Lafferty"
 theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
@@ -26,10 +26,6 @@ pygmentsUseClasses = true
 	[[menu.main]]
 		name = "Blog"
 		url = "/blog/"
-	
-	[[menu.main]]
-		name = "About"
-		url = "/about"
 
     [[menu.main]]
 		name = "Projects"

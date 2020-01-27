@@ -7,6 +7,13 @@
 	{{ $latestcount := .Site.Params.LatestCount | default 3 }}
 	{{ $postsection := .Site.Params.PostSection | default "post" }}
 	<section>
+        <h4>About</h4>
+        {{ with .Site.GetPage "/about" }}{{ .Content }}{{ end }}
+        <hr class="sep" />
+    </section>
+    
+    
+    <section>
 		<h4>{{ T "latestPost" }}</h4>
 		<ul class="no-bullet">
 			{{- range (first $latestcount (where .Pages "Section" $postsection)) -}}
