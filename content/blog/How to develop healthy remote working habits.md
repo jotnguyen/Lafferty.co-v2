@@ -1,6 +1,6 @@
 +++
 
-title = "4 Easy Ways to Bring More Happiness Into Your Life"
+title = "How to Develop Healthy Remote Working Habits"
 date = "2020-01-28"
 description = "Eating healthy and working out can make such a difference. "
 draft = false
