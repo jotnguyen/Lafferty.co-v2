@@ -22,7 +22,7 @@ Have you ever been to the grocery store in the middle of the day on a Tuesday? I
 
 [Start meal prepping.](https://www.budgetbytes.com/meal-prep-101-a-beginners-guide/) Hell, go crazy and get a Costco membership. Costco is always busy though, there's nothing amazing or peaceful about going to Costco ever. Sorry. 
 
-I love trying to imitate my favorite restauraunts. One of my favorite new restauraunts is [Cava](https://cava.com/) but it's not located close to my house, so I make homemade Cava bowls for dinner. 
+I love trying to imitate my favorite restaurants. One of my favorite new restaurants is [Cava](https://cava.com/) but it's not located close to my house, so I make homemade Cava bowls for dinner. 
 
 Do you like Indian food? This [tikka masala recipe](https://www.allrecipes.com/recipe/228293/curry-stand-chicken-tikka-masala-sauce/) is divine. 
 
@@ -50,7 +50,7 @@ Just being around them is enough for me. Having that social interaction is impor
 
 Working remote can be incredibly isolating. You can go days without seeing another human in person. Avoid the temptation to stay in and watch netflix after work.
 
-Driving can be enjoyable when you're not stuck in rushhour traffic. Hop in your car and go somewhere.  Walking around the mall during a weekday afternoon can be so peaceful. Go to the park. You've been at home all day, so when work is over get out of the house. 
+Driving can be enjoyable when you're not stuck in rush hour traffic. Hop in your car and go somewhere.  Walking around the mall during a weekday afternoon can be so peaceful. Go to the park. You've been at home all day, so when work is over get out of the house. 
 
 ### Have a dedicated spot for work
 
@@ -60,7 +60,7 @@ But I found that I was working later and later every day. I didn't have a way to
 
 So I got a tiny desk andput it in a corner of a room. Now that's my work desk.
 
-What also made a huge difference was getting a big monitor so I'm not staring at my tiny 13" laptop screen all day.
+What also made a huge difference was buying a big monitor so I'm not staring at my tiny 13" laptop screen all day.
 
 Now my work laptop stays on my desk. When I'm done working I close it and don't open it again until the next day. 
 
@@ -78,4 +78,4 @@ Hitting the gym every day has made the biggest impact. Lifting heavy weights is 
 
 I eat out less now that I have the time and energy to cook at home. 
 
-Setting up my work enviornment, which took me months to get around to doing, helped separate work from my personal life. 
+Setting up my work environment, which took me months to get around to doing, helped separate work from my personal life. 
