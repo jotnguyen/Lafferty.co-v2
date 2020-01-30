@@ -1,8 +1,8 @@
 +++
 
-title = "Supercharge your next email newsletter"
+title = "Why You Should Send Your Next Email Newsletter to Fewer People"
 date = "2020-01-22"
-description = "I work for an email company. Here's the biggest mistake I see our users making. "
+description = "And the exact steps to remove those who won’t open anyway"
 draft = false
 tags = ["email"]
 
