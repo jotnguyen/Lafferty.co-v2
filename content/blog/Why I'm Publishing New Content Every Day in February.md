@@ -14,7 +14,9 @@ You've heard it countless times before. The most common advice I see for aspirin
 
 And not only write, but publish.
 
-So that's what I'm going to do in February. This is my commitment to publish 28 pieces in February. 
+So that's what I'm going to do in February. This is my commitment to publish 29 pieces in February. 
+
+Stupid leap year added an extra day :)
 
 ### Why February
 
