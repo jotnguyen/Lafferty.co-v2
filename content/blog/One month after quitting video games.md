@@ -8,7 +8,7 @@ tags = ["life"]
 
 +++
 
-Last month I decided to quit video games for a year. I wrote more about why I made (this decision here)[https://nicklafferty.com/blog/why-im-quitting-video-games-for-an-entire-year/]. This post is about what I got up to during my first month, and what I want to do more of next month. 
+Last month I decided to quit video games for a year. I wrote more about why I made [this decision here](https://nicklafferty.com/blog/why-im-quitting-video-games-for-an-entire-year/). This post is about what I got up to during my first month, and what I want to do more of next month. 
 
 ### I Started Running
 
@@ -36,7 +36,7 @@ They say you're a professional once you start making money doing it. I'm definit
 
 I'm writing a lot and loving it. I can't wait to see how this skill develops over the rest of the year, and if I make a little money along the way then that's even sweeter. 
 
-I just committed to writing and publishing new content every day in February. (Read more about that here.)[https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/]
+I just committed to writing and publishing new content every day in February. [Read more about that here.](https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/)
 
 ### My wife and I go on little adventures
 
