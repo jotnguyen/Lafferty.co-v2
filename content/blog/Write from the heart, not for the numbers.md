@@ -12,7 +12,7 @@ I'm new to Medium. I've read and paid for a membership off and on over the last 
 
 I published 3 posts in January, two on The Ascent and one in Better Marketing. I wanted to take some time to talk about the statistics involved in publishing on Medium, and why they're distracting from your true purpose. 
 
-### My post popular story
+### My most popular story
 
  I started a project this year to quit video games and create more. Writing was the path of least resistance to start creating. I didn't need to learn a new skill, I could just sit down and write. I don't consider myself a particularly *good* writer, but I'm showing up every day. 
 
