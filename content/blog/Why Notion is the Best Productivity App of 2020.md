@@ -11,7 +11,6 @@ tags = ["apps"]
 There are a lot of productivity apps on the market. [Notion](http://notion.so) is the best one of them all. It's an all-in-one productivity solution, according to their website, and it's simply one of the best tools I've ever used. Notion is incredibly flexible. It can be a writing repository, task management software, a workout calendar, a database, and so much more. Better yet, you can connect your data in each of those projects to each other, so your workout calendar can reference your journal entries.
 
 Notion is great, but it faces some stiff competition. Here's a shortlist of some of the best productivity apps in 2020. 
-
 - Evernote
 - Trello
 - Airtable
@@ -24,7 +23,7 @@ First off, [Notion gives current Evernote](https://www.notion.so/evernote) users
 
 Let's compare features, their free trials, and then wrap up with why Notion is better. 
 
-### Feature Comparison
+#### Feature Comparison
 
 Notion is a productivity solution, Evernote is a note-taking app. That right there tells you some of the main differences. Here's a overview of the main features of Notion and Evernote. 
 
@@ -47,7 +46,7 @@ Notion is a productivity solution, Evernote is a note-taking app. That right the
 - Native apps
 - Powerful integrations
 
-### Free Trial Comparison
+#### Free Trial Comparison
 
 Both Notion and Evernote are free to use. Notion's free trial lets you create up to 1,000 blocks before it asks you to subscribe to a paid plan. A block in Notion is a piece of content. It could be an image, a paragraph, or a row in a table. 
 
@@ -55,7 +54,7 @@ In my experience Evernote gates a lot of their main features behind their paid p
 
 On the other hand, Notion gives you access to all it's core features, you're just limited in how much content you can create. But 1,000 blocks is enough to write a third of Moby Dick if that tells you anything about how long it'll last you. 
 
-### Why Notion Is Better Than Evernote
+#### Why Notion Is Better Than Evernote
 
 Notion is so much more than a note-taking app. You can build an all-encompassing productivity solution for your life within it. I've written before about [how I use Notion to track my life](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/), and I still use it to track my workouts, catalog my journal, and aggregate my writing. I'm writing this blog post in Notion right now. 
 
@@ -69,26 +68,26 @@ Whereas Evernote is note-taking software, Trello is task management software. Tr
 
 I've used Trello at work as a Kanban board for me and my team. It's easy to create swim-lanes for To-Do, Doing, and Done. I can easily create new tasks for my team and setup automation rules to tag them in it. It helps me visualize what my team is working on, and I can reprioritize work as needed. 
 
-### Trello's Features
+#### Trello's Features
 
 - Task management
 - Automated workflows with rule-based triggers
 - Easy for teams to use and get started quickly and for free
 - Web based, no apps needed
 
-### Free Trial Comparison
+#### Free Trial Comparison
 
 Both Notion and Trello are free to start. Trello lets you create unlimited personal boards, with unlimited cards and lists. You're limited to 10mb per file attachment, which is not unreasonable. You can add simple automations and one power-up, which is essentially an add-on or integration with other providers. 
 
 I've covered Notion's free trial before so I won't rehash it in detail here, but you're limited to 1,000 blocks of anything you want to create. 
 
-### Price Comparison
+#### Price Comparison
 
 Trello's business-class plans starts at $9.99/month, billed annually. If you opt for monthly billing, it's $12.50.
 
 Notion's personal plan starts at $5/month, or $48/year if you pay up-front. Notion is half the cost of Trello, and way more powerful 
 
-### Creating A Trello Board In Notion
+#### Creating A Trello Board In Notion
 
 Creating a Trello board in Notion is super easy since Notion's team has done all the work for you. All you need to do is create a project, search for Task List, and you'll get this.
 
@@ -96,7 +95,7 @@ Creating a Trello board in Notion is super easy since Notion's team has done all
 
 Simple, right? Trello is strictly web-based whereas Notion has cross-device apps and works on the web. Some may prefer working within a browser instead of a standalone app. Personally I prefer having an app because it's easier to get distracted in a browser. I can open a new tab and navigate to reddit in less than a second, so I'd rather not have that temptation at all by working in a separate application. 
 
-### Why Notion is Better than Trello
+#### Why Notion is Better than Trello
 
 Come on, do I even need to say it? Trello is just for tasks, Notion is for life, baby. 
 
@@ -122,7 +121,7 @@ Airtable also has preloaded templates, I just also found them cumbersome. Switch
 
 Airtable also gates many of their premium features under their paid plan, whereas Notion gives you everything during the free trial.
 
-### Notion and Airtable Free Trial Comparison
+#### Notion and Airtable Free Trial Comparison
 
 **Notion**
 
@@ -137,7 +136,7 @@ Airtable also gates many of their premium features under their paid plan, wherea
 - No access to blocks, which are premium add-ons
 - Access to all templates, some may use blocks that you don't have access to
 
-### Pricing Comparison
+#### Pricing Comparison
 
 Notion's Current Pricing, February 2020, billed annually.
 
@@ -147,7 +146,7 @@ Airtable's Current Pricing, March 2020, billed annually.
 
 ![Airtable's Pricing February 2020](https://i.postimg.cc/yN6sSQL2/Screen-Shot-2020-02-03-at-9-12-00-PM.png)
 
-### Why Notion Is Better Than Airtable
+#### Why Notion Is Better Than Airtable
 
 Notion crushes Airtable on pricing and feature availability during the free trial. Airtable gives you access to the Pro features for 14 days, then cuts you down to their limited free tier. Notion gives you access to everything and just limits how much you can create. 
 
