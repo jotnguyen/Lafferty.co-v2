@@ -154,7 +154,7 @@ I've personally found Notion's in-app onboarding experience to be cleaner, more 
 
 I prefer the left-hand navigation in Notion to the tab-based navigation in Airtable. It's a simple difference but I find Notion's more natural. 
 
-## ## The Best Productivity App of 2020
+## The Best Productivity App of 2020
 
 Notion beats Evernote, Trello, and Airtable across the board. Evernote and Trello are very limited apps, good at one specific purpose and terrible at everything else. Airtable is Notion's closest competitor in the scope of this article, but it still falls short. On pricing alone Notion is half the cost of Airtable, before you factor in all free credit Notion gives you for completing certain tasks. 
 
