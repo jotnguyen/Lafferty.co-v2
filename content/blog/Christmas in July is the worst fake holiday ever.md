@@ -4,7 +4,7 @@ title = "Christmas in July is the worst fake holiday ever"
 date = "2020-02-05"
 description = "Have some empathy, please."
 draft = false
-tags = ["writing"]
+tags = ["life"]
 
 +++
 
