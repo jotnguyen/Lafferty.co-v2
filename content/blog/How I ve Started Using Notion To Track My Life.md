@@ -4,7 +4,7 @@ title = "How I've Started Using Notion to Track My Life"
 date = "2019-12-16"
 description = "Notion is an incredibly powerful productivity tool. It tracks my workouts, journal entries, writing repository, and references all of them to track my habits as I work to achieve my longterm goals"
 draft = false
-tags = ["productivty"]
+tags = ["productivty", "notion"]
 
 +++
 

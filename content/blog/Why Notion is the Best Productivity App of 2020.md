@@ -4,7 +4,7 @@ title = "Why Notion Is The Best Productivity App of 2020"
 date = "2020-02-04"
 description = "It rules and every other app drools. "
 draft = false
-tags = ["apps"]
+tags = ["productivity", "notion"]
 
 +++
 
