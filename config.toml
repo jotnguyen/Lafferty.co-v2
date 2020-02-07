@@ -30,6 +30,10 @@ pygmentsUseClasses = true
     [[menu.main]]
 		name = "Projects"
 		url = "/projects"
+        
+    [[menu.main]]
+        name = "Tags"
+        url = "/tags"
 
 
 [taxonomies]
