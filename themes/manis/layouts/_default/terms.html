@@ -4,7 +4,7 @@
 	{{ with .Content }}{{.}}{{ end }}
 	<ul style="list-style: none;">
 		{{ range .Data.Terms.Alphabetical }}
-		<li style="display: inline;">
+		<li style="">
 			<a href="/{{$.Data.Plural}}/{{.Term}}" style="">{{ .Term }}</a>
 			<span>({{ .Count }})</span>
 		</li>
