@@ -10,7 +10,7 @@ Hi, I’m Nick Lafferty.
 
 I am a digital marketer with a passion for technology and SaaS products based in Austin, Texas. I currently work at [Mailgun](https://mailgun.com) where I'm helping define and execute our digital marketing strategy. 
 
-I enjoy building charts and dashboards, tinkering with websites, and solving problems. Check me out on [Medium](https://medium.com/@NickLafferty) where I've been published in The Ascent and Better Marketing. 
+I enjoy working with data, solving complex problems, and writing. Check me out on [Medium](https://medium.com/@NickLafferty) where I've been published in The Ascent and Better Marketing. 
 
-Do you need help generating more leads, running paid search campaigns, or building a website? [Send me an email.](mailto:nick@lafferty.co)
+Do you need help generating more leads, running paid search campaigns, building a website, or writing great content? [Send me an email.](mailto:nick@lafferty.co)
 
