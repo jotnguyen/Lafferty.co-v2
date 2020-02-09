@@ -10,11 +10,11 @@ tags = ["productivity", "notion"]
 
 There are a lot of productivity apps on the market. [Notion](http://notion.so) is the best one of them all. It's an all-in-one productivity solution, according to their website, and it's simply one of the best tools I've ever used. Notion is incredibly flexible. It can be a writing repository, task management software, a workout calendar, a database, and so much more. Better yet, you can connect your data in each of those projects to each other, so your workout calendar can reference your journal entries.
 
-Notion is great, but it faces some stiff competition. Here's a shortlist of some of the best productivity apps in 2020. 
+Notion is great, but it faces some stiff competition. Here's a shortlist of some of the best productivity apps in 2020, click to jump to that section:
 
-- Evernote
-- Trello
-- Airtable
+- [Evernote](#notion-vs-evernote)
+- [Trello](#notion-vs-trello)
+- [Airtable](#notion-vs-airtable)
 
 I'll compare Notion to Evernote, Airtable, and Trello and provide some of my thoughts. Let's go!
 
