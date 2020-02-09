@@ -89,6 +89,12 @@ pygmentsUseClasses = true
 	enableRobotsTXT = true
 	canonifyURLS = true
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 3
+
 
 # Language Configuration
 #[languages.in]
