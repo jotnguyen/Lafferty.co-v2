@@ -13,6 +13,7 @@
 		{{ hugo.Generator }}
 		{{ partial "metatitle" . }}
 		{{ partial "metadesc" . }}
+        <link rel="canonical" href="{{ .Permalink }}">
 
 		{{ with .Site.Params.FaviconImg }}
 		<link rel="shortcut icon" href="{{.}}">
