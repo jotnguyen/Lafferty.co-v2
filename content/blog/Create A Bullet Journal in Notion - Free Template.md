@@ -8,7 +8,7 @@ tags = ["notion"]
 
 +++
 
-
+See how I used Notion to create a digital bullet journal. Notion's ability to references other pages make it a powerful tool to keep your BuJo, or any other documents, automatically sync'd to all your devices. 
 
 ## What is a bullet journal?
 
