@@ -1,7 +1,20 @@
 {{ partial "header" . }}
 <article>
-	<header>{{ partial "title" . }}</header>
+	<header>
+        {{ partial "title" . }}
+    {{ $latestcount := .Site.Params.LatestCount | default 3 }}
+	{{ $postsection := .Site.Params.PostSection | default "blog" }}
+    </header>
 	{{ .Content }}
+    <section>
+        <hr class="sep" />
+		<h4>Checkout My Latest Posts</h4>
+		<ul class="no-bullet">
+			 {{ range (first 3 (where site.RegularPages "Section" "blog")) }}
+        {{ partial "li" . }}
+        {{ end }}
+		</ul>
+	</section>
 	<p id="spotify">
 		{{ partial "song.html" . }}
 	</p>

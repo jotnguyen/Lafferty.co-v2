@@ -37,7 +37,7 @@ I've already noticed a big dip in phone usage since I uninstalled the Reddit app
 
 ## Journaling
 
-![Notion Journal Image](/img/Notion Journal.png)
+![Notion Journal Template](/img/Notion Journal.png)
 
 I wanted to start writing more this year so I decided the best way to do that is by journaling every day. I chose to do it on a computer because I'm a much faster typer, my handwriting is terrible, and I wanted it easily categorized and searchable.
 
@@ -47,7 +47,7 @@ Weekly entries are list based and serve to summarize my weeks. My prompts for th
 
 ## Workout Calendar
 
-![Notion Workout Image](/img/Notion Workout.png)
+![Notion Workout Tracker](/img/Notion Workout.png)
 
 After I started working from home full-time I decided to pick back up my workouts. It's a great reason to get out of the house for an hour and I feel great afterwards. After going for a month or two consistently I would forget what muscle groups I did the previous few workouts. I built this simple calendar to show what muscle groups I hit on what days.
 
@@ -63,7 +63,7 @@ My setup is nothing fancy at all, but I surprisingly bounce between multiple com
 
 I don't have a hard goal of writing X blog posts each day or week. I just want to write. So my repository is filled with half written articles, ideas for future articles, and (a few) completed pieces. 
 
-![Notion Writing Image](/img/Notion Writing.png)
+![Notion Writing Tracker](/img/Notion Writing.png)
 
 
 ### Wrapping Up
