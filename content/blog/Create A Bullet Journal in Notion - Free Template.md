@@ -74,6 +74,8 @@ Click the plus sign, or just type a / and search for toggle lists.
 
 I created one for my Daily Log and one for my Monthly log.
 
+![Bullet Journal Index in Notion](https://i.postimg.cc/fRGw0KN6/Screen-Shot-2020-02-10-at-4-55-09-PM.png)
+
 Then, inside the toggle list for Daily Log, add another block to Embed a page. Notion will pop up a new window where you can create your page. This is where you can customize how your Daily Logs and Monthly logs look like. Within your new pages, if you type @ and then start typing, you can reference your daily logs.
 
 See how I typed @, then 2/10, and Notion found my daily entry for February 10th. It's based on the name of your pages, and in this case I named the page 2/10/2020
@@ -81,8 +83,6 @@ See how I typed @, then 2/10, and Notion found my daily entry for February 10th.
 ![Bulet Journal Monthly Log in Notion](https://i.postimg.cc/yN07hZ6W/Screen-Shot-2020-02-10-at-4-51-59-PM.png)
 
 Spend time creating a template for your daily and monthly logs. Then you can just load the template to when you do your daily and monthly log, so you can get straight to the action. A little setup beforehand is the key to your bullet journal success!
-
-![Bullet Journal Index in Notion](https://i.postimg.cc/fRGw0KN6/Screen-Shot-2020-02-10-at-4-55-09-PM.png)
 
 ### 5. Add your Future Log Calendar
 
