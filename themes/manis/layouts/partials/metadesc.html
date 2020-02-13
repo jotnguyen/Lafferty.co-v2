@@ -7,5 +7,11 @@
 	{{- end -}}
 {{- else if .IsHome -}}
 	{{ .Site.Params.Description }}
+{{- else -}}
+  	{{- if .Description -}}
+	{{ .Description }}
+	{{- else -}}
+	{{ .Summary }}
+	{{- end -}}
 {{- end -}}
 ">
