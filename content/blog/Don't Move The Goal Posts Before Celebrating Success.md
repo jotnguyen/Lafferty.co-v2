@@ -1,6 +1,6 @@
 +++
 
-title = "Don'y Move The Goal Posts Before Celebrating Success"
+title = "Don't Move The Goal Posts Before Celebrating Success"
 date = "2020-01-14"
 description = "You can be great, just put in the work. Celebrate your wins and find ways to do more of them."
 draft = false
