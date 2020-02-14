@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 date = "2019-08-08T08:53:11-05:00"
-description = "Current Projects"
+description = "I love tinkering with websites. This is a list of things I've built and try to maintian."
 draft = false
 layout = "single"
 
@@ -13,5 +13,7 @@ layout = "single"
 * [Morning Edition](morningedition) - Start your morning with 6 popular articles currently trending. 
 
 * [Miss Cody Retouch](https://misscody.com) - Portfolio website for my wife's photo retouching business. 
+
+* [1 Word Email](https://1word.email) - A newsletter for people who hate ones letters. One word, one email, once per week. 
 
 
