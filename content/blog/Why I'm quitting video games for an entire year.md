@@ -65,7 +65,7 @@ I've never stopped playing for this long of time ever since I started playing.
 
 Writing this post makes all of this real. By getting this idea out of my head and onto the internet where 10 people will read it, if I'm lucky, commits me to this idea. 
 
-### Why am I quitting for an entire year?
+### Why am I quitting video games for an entire year?
 
 Lately I haven't gotten as much joy from playing games. They've gone from something I do to have fun, to just something I do because I've always done it. Playing games is an easy way to escape. I can forget whatever is bothering me and get lost competing with other people. 
 

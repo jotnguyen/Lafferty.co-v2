@@ -8,7 +8,11 @@ tags = ["sheets"]
 
 +++
 
-**Don’t want to read? Here’s the quick formula**
+I know how to do a VLOOKUP in Google Sheets, but I didn't know how to VLOOKUP the entire row. I solved this by nesting the VLOOKUP inside an ARRAY.
+
+The quick solution for you to copy and paste is below, and the longer more detailed reasoning is at the bottom. 
+
+## Here’s the quick formula
 
 `=ARRAYFORMULA(VLOOKUP(A1,'Sheet2'!A3:G6,{2,3,4,5,6,7},FALSE))`
 
@@ -18,7 +22,7 @@ That formula will break if you add any columns, if that happens try this instead
 
 `=ARRAYFORMULA(VLOOKUP(A1,'Sheet2'!A3:G6,COLUMN(B3:G6),FALSE))`
 
-**Longer Explanation**
+## Step-by-step Explanation
 
 I’ve gotten to know Vlookups really well over the years. If you need a quick refresher, Vlookup is a great way to match data aross columns or spreadsheets quickly. It takes a value in one column, finds it’s exact match value in a an array of columns, and returns a specific value in that array that has the same row of your specific value. 
 
