@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 date = "2019-08-08T08:53:11-05:00"
-description = "I love tinkering with websites. This is a list of things I've built and try to maintian."
+description = "I love tinkering with websites. This is a list of things I've built and try to maintain."
 draft = false
 layout = "single"
 
