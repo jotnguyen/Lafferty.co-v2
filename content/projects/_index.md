@@ -14,6 +14,6 @@ layout = "single"
 
 * [Miss Cody Retouch](https://misscody.com) - Portfolio website for my wife's photo retouching business. 
 
-* [1 Word Email](https://1word.email) - A newsletter for people who hate newsletters. One word, one email, once per week. Delivered on Mondays. 
+* [1 Word Email](https://1word.email) - A newsletter for people who hate newsletters. One word, one email, once per week. Delivered on Fridays. 
 
 
