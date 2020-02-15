@@ -24,7 +24,7 @@ That formula will break if you add any columns, if that happens try this instead
 
 ## Step-by-step Explanation
 
-I’ve gotten to know Vlookups really well over the years. If you need a quick refresher, Vlookup is a great way to match data aross columns or spreadsheets quickly. It takes a value in one column, finds it’s exact match value in a an array of columns, and returns a specific value in that array that has the same row of your specific value. 
+I’ve gotten to know Vlookups really well over the years. If you need a quick refresher, Vlookup is a great way to match data across columns or spreadsheets quickly. It takes a value in one column, finds it’s exact match value in a an array of columns, and returns a specific value in that array that has the same value of your specific value. 
 
 [![Screen-Shot-2019-06-01-at-7-10-36-AM.png](https://i.postimg.cc/QCWG9z8t/Screen-Shot-2019-06-01-at-7-10-36-AM.png)](https://postimg.cc/2LmXg2BR)
 
