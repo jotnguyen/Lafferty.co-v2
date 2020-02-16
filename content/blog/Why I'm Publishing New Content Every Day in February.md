@@ -4,7 +4,7 @@ title = "Why I'm Publishing New Content Every Day In February"
 date = "2020-02-01"
 description = "Maybe because I'm crazy."
 draft = false
-tags = ["life", "writing"]
+tags = ["writing"]
 
 +++ 
 

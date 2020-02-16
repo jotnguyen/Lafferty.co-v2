@@ -16,9 +16,9 @@
     <section>
 		<h4>{{ T "latestPost" }}</h4>
 		<ul class="no-bullet">
-			{{- range (first $latestcount (where .Pages "Section" $postsection)) -}}
-			{{ partial "li" . }}
-			{{- end -}}
+        {{ range (first 5 (where site.RegularPages "Section" "blog")) }}
+        {{ partial "li" . }}
+        {{ end }}
 		</ul>
 	</section>
 

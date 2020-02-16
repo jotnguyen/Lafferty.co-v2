@@ -4,7 +4,7 @@ title = "My Notion Templates for Daily Journaling"
 date = "2020-02-06"
 description = "Daily and weekly notion journal templates"
 draft = false
-tags = ["productivity", "notion"]
+tags = ["notion"]
 
 +++
 
