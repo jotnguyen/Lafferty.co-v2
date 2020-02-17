@@ -5,7 +5,7 @@
     <img class="icon-text" src="/img/prev.svg"/>
     </a>
     {{ end }}
-    <span>{{.Paginator.PageNumber}}</span>
+    <span>Page {{.Paginator.PageNumber}}</span>
     {{ with .Paginator.Next }}
     <a href="{{ .URL }}">
     <img class="icon-text" src="/img/next.svg"/>
