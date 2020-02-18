@@ -1,7 +1,6 @@
 +++
 date = 2020-02-18T06:00:00Z
 description = "Know where you want to live, make a checklist, and be patient. Your perfect house is out there. "
-draft = true
 tags = ["homeownership"]
 title = "A Millennial's Guide To Buying Your First House"
 
