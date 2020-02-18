@@ -15,6 +15,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/blog/a-millennial-s-guide-to-buying-your-first-house-1.md
 - content/blog/a-millennial-s-guide-to-buying-your-first-house.md
 - content/blog/introducing-the-1-word-email-newsletter.md
 - content/blog/organize-your-writing-with-a-kanban-board.md
