@@ -13,6 +13,9 @@
 		{{ hugo.Generator }}
 		{{ partial "metatitle" . }}
 		{{ partial "metadesc" . }}
+        {{ if .Data.Singular }}
+        <meta name="robots" content="noindex">
+        {{ end }}
         <link rel="canonical" href="{{ .Permalink }}">
 
 		{{ with .Site.Params.FaviconImg }}
