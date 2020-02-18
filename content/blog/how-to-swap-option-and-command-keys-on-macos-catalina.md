@@ -1,5 +1,5 @@
 +++
-date = 2020-02-19T06:00:00Z
+date = 2020-02-16T06:00:00Z
 description = "4 steps to swap your option and command keys on macOs Catalina. Can be used for any windows keyboard, or any keyboard period. "
 tags = ["apps"]
 title = "How to Swap Option and Command Keys on macOS Catalina"
