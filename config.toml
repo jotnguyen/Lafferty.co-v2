@@ -48,7 +48,7 @@ pygmentsUseClasses = true
 	# List of sections support disqus comments
 	disqusSections = [ "blog" ]
 	# Site meta description
-	description = "Nick Lafferty's personal blog about digital marketing, productivity, and general ramblings."
+	description = "Nick Lafferty's personal blog about digital marketing, productivity, and general ramblings. Publishing new content every day this month"
 	# Site's Tagline (Subtitle or Keyword)
 	tagline = "Digital Marketing & Lead Gen Expert"
 	# If true give attribution to this theme
