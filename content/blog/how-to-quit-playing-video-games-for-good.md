@@ -1,7 +1,6 @@
 +++
-date = 2020-02-21T06:00:00Z
+date = 2020-02-19T06:00:00Z
 description = "Video games are great but can be a huge waste of time. Here's exactly how to quit playing games today. "
-draft = true
 tags = ["games"]
 title = "How to Quit Playing Video Games For Good"
 
