@@ -52,7 +52,7 @@ With those 5 questions in mind, let's explore how to quit video games for good.
 
 ## How to Quit Video Games
 
-Here's the specific steps I took. I'll go into more detail below.
+Here are the specific steps I took. I'll go into more detail below.
 
 1. Decide you want to quit for a specific time period. For me, it was an entire year.
 2. Tell people you're quitting. Tell your friends, family, girlfriend, boyfriend, write a blog post on the internet. **This makes you accountable**
