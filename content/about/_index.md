@@ -1,5 +1,5 @@
 +++
-title = "Hi, I'm Nick Lafferty. Writer & Digital Marketer from Austin"
+title = "Hi, I'm Nick Lafferty. Writer & Digital Marketer"
 date = "2019-05-29T08:53:11-05:00"
 description = "About Me - Nick Lafferty is a writer & digital marketer based in Austin, Texas. Currently working for Mailgun."
 draft = false
