@@ -1,5 +1,5 @@
 +++
-date = 2020-02-19T06:00:00Z
+date = "2020-02-20"
 description = "I spent a lot of money on Google ads last year across Search, Display, Youtube, Discovery, and Gmail. Here's what I learned."
 tags = ["marketing"]
 title = "I spent $6 Million On Google Ads Last Year - Here's What I Learned"
