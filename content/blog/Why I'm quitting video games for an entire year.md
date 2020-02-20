@@ -4,7 +4,7 @@ title = "Why I'm Quitting Video Games For An Entire Year"
 date = "2020-01-06"
 description = "Long time gamer quits, just to see if he can. "
 draft = false
-tags = ["life"]
+tags = ["games"]
 
 +++
 
