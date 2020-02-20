@@ -5,12 +5,7 @@ tags = ["games"]
 title = "How to Quit Playing Video Games For Good"
 
 +++
-I've played video games for over 15 years. I've played all the popular games for hundreds of hours:
-
-* Minecraft
-* Fortnite
-* League of Legends
-* Starcraft
+I've played video games for over 15 years. You name it, I've played it for hundreds of hours. 
 
 Video games can be a great escape. Hell, they can even be great for generating creative ideas. They spawn entire industries like Cosplay, where people dress up as their favorite characters.
 
@@ -45,7 +40,7 @@ I made many great friends playing games. Hell, the relationship with my wife sta
 
 But that's all in the past for me now. I don't need them anymore. They've served a purpose in my life and now it's time to put them aside.
 
-Here's another question: 
+Here's another question:
 
 > What would you do with your time instead of playing games?
 
