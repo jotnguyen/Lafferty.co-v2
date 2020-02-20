@@ -69,7 +69,7 @@ This forces you to develop other long term habits. They say it takes 30 days to 
 
 It's much easier to start something new than it is to quit something you've been doing for years.
 
-Also I like how long "a year" sounds. Like, yeah I'm quitting video games for a year. Maybe that's just me, but the length of time is ambitious and inherently challenging. I like challenges.
+I also like how long **a year** sounds. Yeah, I'm quitting video games for a year. Maybe that's just me, but the length of time is ambitious and inherently challenging. I like challenges.
 
 ### Tell Everyone Who Will Listen
 
@@ -79,7 +79,7 @@ I told my wife and my friends. Then I wrote a blog post about it.
 
 That post has since been viewed over 400 times. I published it a month ago and I still get people commenting on it.
 
-Now I'm accountable. To be honest i don't care about what people on the internet think, but I care about sticking with it. If I took all that time to tell everyone and write about it then I better freaking do it.
+Now I'm accountable. I don't care about what people on the internet think, but I care about sticking with my goal. If I took all that time to tell everyone and write about it then I better freaking do it.
 
 **Tell 3 people you're quitting and write it down**.
 
