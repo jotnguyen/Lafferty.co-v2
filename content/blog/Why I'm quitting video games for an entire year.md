@@ -10,6 +10,8 @@ tags = ["games"]
 
 I've been dreading to write this post because it makes the thoughts swirling around in my head real. I don't want to do this because it will be uncomfortable. It will be difficult. But I need to embrace those feelings. 
 
+If you want to know the specific steps I took, checkout my post on [how to quit video games for good](https://nicklafferty.com/blog/how-to-quit-playing-video-games-for-good/).
+
 I want to go an entire year without playing video games.
 
 ### Ok, so what?
