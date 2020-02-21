@@ -61,7 +61,7 @@ Here are the specific steps I took. I'll go into more detail below.
 
 Alright, let's dive in
 
-### Commit to Quitting for a Long Time
+### 1. Commit to Quitting for a Long Time
 
 A long time to me is a year. A month is easy. Anyone could quit playing video games for a month, there's no challenge there.
 
@@ -71,7 +71,7 @@ It's much easier to start something new than it is to quit something you've been
 
 I also like how long **a year** sounds. Yeah, I'm quitting video games for a year. Maybe that's just me, but the length of time is ambitious and inherently challenging. I like challenges.
 
-### Tell Everyone Who Will Listen
+### 2. Tell Everyone Who Will Listen
 
 I never fully commit to a decision until I tell people about it. Thee's something about verbalizing your thoughts. It makes them real.
 
@@ -89,7 +89,7 @@ You don't have to write a blog post or a long diatribe about why you're doing th
 
 Every time you see those words is a constant reminder. You'll think about why you started this journey in the first place.
 
-### Do Other Stuff
+### 3. Do Other Stuff
 
 This is the information age. Anything you want to learn is just a Google search away. Here are some ideas.
 
@@ -105,7 +105,7 @@ Whatever you pick, do it consistently. Workout every day. Play your guitar every
 
 Consistency is key. You're building new habits as you're breaking old ones.
 
-### Uninstall Every Single Game
+### 4. Uninstall Every Single Game
 
 If you're a PC gamer, uninstall everything from your computer. Fully delete the game files, don't just cop-out and uninstall Steam.
 
