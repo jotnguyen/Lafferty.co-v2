@@ -3,6 +3,7 @@ date = 2020-02-18T06:00:00Z
 description = "4 steps to swap your option and command keys on macOs Catalina. Can be used for any windows keyboard, or any keyboard period. "
 tags = ["apps"]
 title = "How to Swap Option and Command Keys on macOS Catalina"
+affiliate = true
 
 +++
 I recently purchased [this external keyboard](https://amzn.to/2wkqrdG) to use with my Mac's home-office setup. I wanted a minimal, mechanical keyboard that was not bluetooth. That one is great and under $30.

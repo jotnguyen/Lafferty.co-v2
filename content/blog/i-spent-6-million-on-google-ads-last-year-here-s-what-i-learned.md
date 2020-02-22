@@ -3,6 +3,7 @@ date = "2020-02-20"
 description = "I spent a lot of money on Google ads last year across Search, Display, Youtube, Discovery, and Gmail. Here's what I learned."
 tags = ["marketing"]
 title = "I spent $6 Million On Google Ads Last Year - Here's What I Learned"
+affiliate = true
 
 +++
 I spent a lot of money on Google Ads last year across Search, Display, Gmail, Youtube, and the new Discover feed.

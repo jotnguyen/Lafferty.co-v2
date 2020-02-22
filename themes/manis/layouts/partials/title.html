@@ -27,8 +27,11 @@
 			-
 			<a href="{{.}}">{{ T "workHomepage" }}</a>
 			{{- end -}}
-		<span>
+        </span>
 	</h5>
+    {{ if .Params.affiliate}}
+    <span style=" font-size: 80%; color: #222;">This post contains affiliate links.</span>
+    {{ end }}
 	<!-- Taxonomy Page -->
 	{{- else if eq .Kind "taxonomy" -}}
 	<h5>{{ .Data.Singular | title }}:</h5>
