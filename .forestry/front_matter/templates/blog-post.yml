@@ -14,6 +14,12 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: affiliate
+  type: text
+  config:
+    required: false
+  label: affiliate
+  description: true or blank
 pages:
 - content/blog/a-millennial-s-guide-to-buying-your-first-house.md
 - content/blog/how-to-quit-playing-video-games-for-good.md

@@ -1,9 +1,9 @@
 +++
-date = "2020-02-20"
+affiliate = true
+date = 2020-02-21T06:00:00Z
 description = "I spent a lot of money on Google ads last year across Search, Display, Youtube, Discovery, and Gmail. Here's what I learned."
 tags = ["marketing"]
 title = "I spent $6 Million On Google Ads Last Year - Here's What I Learned"
-affiliate = true
 
 +++
 I spent a lot of money on Google Ads last year across Search, Display, Gmail, Youtube, and the new Discover feed.
@@ -25,6 +25,22 @@ Always be testing new creatives. What didn't work a year ago could work now, so 
 Draw inspiration from other industries. If you're in eCommerce then see what's working well in Mortgage or Auto Insurance. Those highly competitive industries breed insane amounts of innovation because failure to innovate means falling behind the competition.
 
 Creative fatigue is real and happens faster than you think, particularly on fast-paced content sites like Facebook and Youtube. People want to see something new, and your brand new ad is only new for a day.
+
+### Automate Everything
+
+The best digital marketers automate the tedious stuff. They use tools like [Supermetrics](https://supermetrics.idevaffiliate.com/idevaffiliate.php?id=2679&tid1=marketing&tid2=6-mil) to automatically pull reports out of Adwords, dump them to a Google Sheet to build beautiful and informative dashboards. 
+
+Automation frees up your time to start driving results. Creating powerpoints does not directly influence anything in your campaigns. Sure, it helps you understand and organize what's going on, but it doesn't actively increase their performance.
+
+This topic deserves its own post, but here are the most frequent things I automated. 
+
+* Summarized year-over-year views in a table on Clicks, Impressions, Conversions, and Cost
+* Search impression share by week refreshed automatically each morning
+* A unified paid media dashboard that aggregates performance metrics by each channel (Adwords, Bing, Facebook, etc) broken out by month.
+
+Anything you build manually today can and should be automated. Repetitive tasks are a waste of your time. 
+
+Spend time setting up your automated reports once, so the next time you have a meeting or presentation you can pull from your dashboard in 5 seconds instead of building something one-off that takes an hour. 
 
 ### The House Always Wins
 
@@ -95,8 +111,8 @@ If you're having trouble succeeding with Gmail ads then your creative is busted.
 
 ### Wrapping Up
 
-Succeeding at digital marketing is all about iteration. No strategy works forever and failing to consistently test is a recipe for failure. 
+Succeeding at digital marketing is all about iteration. No strategy works forever and failing to consistently test is a recipe for failure.
 
-Creative is king. Embrace machine learning and automated bid strategies, especially Google's Target CPA. 
+Creative is king. Embrace machine learning and automated bid strategies, especially Google's Target CPA.
 
-If your current campaigns aren't cutting it then [drop me a line](https://nicklafferty.com). 
+If your current campaigns aren't cutting it then [drop me a line](https://nicklafferty.com).
