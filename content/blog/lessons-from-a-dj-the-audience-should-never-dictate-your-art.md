@@ -8,7 +8,7 @@ title = "15 Years as a DJ Taught Me That The Audience Should Never Dictate Your 
 +++
 I started playing music on the internet in 2006. I was 16 at the time and had started an internet radio station that would eventually get me nominated as a Texas Youth Entrepreneur Of The Year.
 
-My radio station would eventually grow to house 20 DJs from Paris, Sydney, Canada, and the United States. Every week they would volunteer their time to play music on my radio station.
+My radio station grew to house 20 DJs from Paris, Sydney, Canada, and the United States. Every week they would volunteer their time to play music on my radio station.
 
 I was the first DJ and performed like one from a traditional FM radio station like KISS FM. I played a few songs, talked in between, and gave shoutouts. I ran no commercials and made no money.
 
