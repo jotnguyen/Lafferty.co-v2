@@ -28,21 +28,21 @@ Sometimes my rejections stem from not following the specific publication's submi
 
 Most of all, the rejection letters are motivation. I get a little angry each time, thinking to myself _you don't want to publish my great work? fine. someone else will_.
 
-When it's 9 pm and the last thing I want to do is write, I think of those rejection letters. If I stop publishing then those letters were right. I wasn't good enough then, and I'll never be good enough if I quit writing.
+When it's 9 pm and the last thing I want to do is write, I think of those rejection letters. If I don't write during the hard times then those letters were right: I wasn't good enough.
 
 So I sit my ass down, get out the laptop, and write.
 
-That's not a hypothetical scenario, it's me right now.
+That's not a hypothetical scenario, it's me right now, writing this post.
 
 ## You have to make time
 
-Your writing isn't going to happen on its own. I wish the words would just magically appear on the page, but they won't. If writing is important to you then you have to make time. Look at what you spend time on, and ask yourself one question:
+Your writing isn't going to happen on its own. I wish the words would just magically appear on the page, but they won't. If writing is important to you then you have to make time for it. Look at what you spend time on, and ask yourself one question:
 
 > _Is this more important than writing?_
 
 If it is more important, great! If not, and it's also not necessary to live (please don't stop eating), then you should write instead of doing that thing.
 
-This month I've still managed to do what's important to me:
+Here's what I've managed to do this month:
 
 * Spend quality time with my wife
 * Hang out with my friends
@@ -57,15 +57,15 @@ If you're struggling with finding the time to write, it's time to take a hard lo
 
 ## Perfect is the enemy of good
 
-I've spent days writing and editing the perfect post, only to have it get rejected from multiple publications. I've also had rough drafts that I cobbled together in 45 minutes get accepted.
+I've spent days writing and editing the perfect post, only to have it get rejected from multiple publications. I've also had drafts that I thought were sloppy and cobbled together in 45 minutes be accepted.
 
 You could spend forever honing that perfect post, or you could publish it and move on. I've had to embrace that some of my posts won't be as polished as I would like if I want to achieve my goal.
 
 That last part is the key to everything. **If I want to achieve my goal**. I have a 24-day streak going and I'm sure as hell not going to let anything break it, least of all a post that's in rough shape.
 
-If you're anything like me then you set a really high bar for yourself. If you feel like a piece of content is falling short of that then you hold onto it, refining it for days until it's ready to be seen by the world.
+If you're anything like me then you set a really high bar for yourself. If you feel like a piece of content is falling short of that bar then you hold onto it, refining it for days until it's ready to be seen by the world.
 
-My advice? Write today, edit and publish it tomorrow. **Two days, t**hat's all you get. Create an artificial deadline that you have to follow. The cycle of endless edits and re-writes stems from a lack of a goal.
+My advice? Write today, edit and publish it tomorrow. **Two days**, that's all you get. Create an artificial deadline that you have to follow. The cycle of endless edits and re-writes stems from a lack of a firm goal.
 
 If you absolutely have to get something published then you'll find a way to get it done. Eventually, your post will be good enough, and that's the ideal state.
 
@@ -75,22 +75,22 @@ Don't let perfect become the enemy of _good enough_. Publish and move on.
 
 My most productive writing sessions are in the morning. I wake up before my wife, have a cup of coffee, and sit on my couch to write. I sit there for an hour pouring my heart out onto the page, totally uninterrupted and compose the most beautiful post the world has ever seen.
 
-Do you know how often that happens every week? Maybe once, if I'm really lucky.
+Do you know how often that happens? Maybe once a week, if I'm really lucky.
 
-What actually happens is I get constantly interrupted, I get writer's block, or my dog wants attention. It's really hard to tell my dog no.
+What actually happens is I'm constantly interrupted, I get writer's block, or my dog wants attention. It's really hard to tell my dog no.
 
 So I carve out 10-minute chunks of time throughout the day to write. I've written between sets at the gym. I've written during my lunch break. Hell, I've written on conference calls that didn't need my full attention.
 
 You can fantasize about your perfect writing setup, or you could find time to write whenever you can. Some of my best ideas have come from short writing sessions while I was in between tasks.
 
-There is something romantic about the idea of writing. The act of writing is much less romantic. It can be ugly, angry, and frustrating.
+There is something romantic about the idea of writing, but the act itself is much less romantic. It can be ugly, angry, and frustrating. The perfect time to write is elusive, so do it whenever you can. 
 
 ## Wrapping Up
 
-Publishing new content every day is really hard. Don't get me wrong, this has been a challenge I am not likely to repeat next month. I'm looking forward to taking a little break from the daily need to publish. But it's been so worth it.
+Publishing new content every day is really freaking hard. Don't get me wrong, this has been a challenge I am not likely to repeat next month. I'm looking forward to taking a little break from the daily need to publish. But it's been so worth it.
 
 My view count on Medium exploded due to simple math. More stories = getting published more often = more views. I've had to make some sacrifices in my life to make it happen but I would do it all again.
 
-I've learned to accept that good enough really is good enough, and that striving for perfection stood in the way of achieving my goals. I had to cut out unnecessary bullshit from my daily life to make time to write. I've had to accept rejection and turn it into motivation.
+I've learned to accept that good enough is _good enough_, and that striving for perfection stood in the way of achieving my goals. I had to cut out unnecessary bullshit from my daily life to make time to write. I've had to accept rejection and turn it into motivation.
 
 If you can't find time to write, then you're not trying hard enough.
