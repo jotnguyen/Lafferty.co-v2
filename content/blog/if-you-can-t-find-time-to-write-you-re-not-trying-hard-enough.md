@@ -18,7 +18,7 @@ Here's how I've made time to publish every day this month.
 
 ## Accept rejection
 
-I've been rejected from every major publication on Medium, many of them multiple times. But you have to submit your work before you can get rejected. And then, so what?
+I've been rejected from every major publication on Medium, many of them multiple times. But you have to submit your work before you can get rejected. Rejection means you tried, and when it happens, so what?
 
 > You miss 100% of the shots you don't take. - Wayne Gretsky
 
