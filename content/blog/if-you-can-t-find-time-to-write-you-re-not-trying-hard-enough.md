@@ -10,7 +10,7 @@ I went on a 5-day business trip at the start of February. Most days I started wo
 
 I'd get back to my hotel room every night exhausted. Knowing I had to get up the next day and do it all over again made it so much worse.
 
-But I still found time to write. I wrote something every single day . Days before that trip started I committed to [publishing new content every day in February](https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/).
+But I still found time to write. I wrote something every single day. Days before that trip started I committed to [publishing new content every day in February](https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/).
 
 Today is day 24, so this is the 24th piece of new content I've published _this month_. I'm 5 days away from finishing my goal and my backlog of ideas has never been bigger, my passion for writing never greater, and my motivation never higher.
 
@@ -40,7 +40,7 @@ Your writing isn't going to happen on its own. I wish the words would just magic
 
 > _Is this more important than writing?_
 
-If it is more important, great! If it it's not, and it's also not necessary to live (please don't stop eating), then you should write instead of doing that thing.
+If it is more important, great! If not, and it's also not necessary to live (please don't stop eating), then you should write instead of doing that thing.
 
 This month I've still managed to do what's important to me:
 
@@ -57,13 +57,13 @@ If you're struggling with finding the time to write, it's time to take a hard lo
 
 ## Perfect is the enemy of good
 
-I've spent days writing and editing the perfect post, only to have it get rejected from multiple publications. I've also had rough drafts that I cobbled together in 45 minutes be accepted.
+I've spent days writing and editing the perfect post, only to have it get rejected from multiple publications. I've also had rough drafts that I cobbled together in 45 minutes get accepted.
 
 You could spend forever honing that perfect post, or you could publish it and move on. I've had to embrace that some of my posts won't be as polished as I would like if I want to achieve my goal.
 
 That last part is the key to everything. **If I want to achieve my goal**. I have a 24-day streak going and I'm sure as hell not going to let anything break it, least of all a post that's in rough shape.
 
-If you're anything like me then you set a really high bar for yourself. If you feel like a piece of content is falling short of that then you hold onto it, refining it for days, until it's ready to be seen by the world.
+If you're anything like me then you set a really high bar for yourself. If you feel like a piece of content is falling short of that then you hold onto it, refining it for days until it's ready to be seen by the world.
 
 My advice? Write today, edit and publish it tomorrow. **Two days, t**hat's all you get. Create an artificial deadline that you have to follow. The cycle of endless edits and re-writes stems from a lack of a goal.
 
