@@ -404,3 +404,37 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 120rem) {}
+
+div.notices {
+    margin: 1rem 0;
+    position: relative;
+}
+div.notices p {
+    padding: 5px;
+    display: block;
+    font-size: 1.5rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: #666;
+}
+div.notices p:first-child:before {
+    position: absolute;
+    top: 2px;
+    color: #fff;
+    left: 10px;
+}
+div.notices p:first-child:after {
+    position: absolute;
+    top: 0px;
+    color: #fff;
+    left: 1rem;
+}
+div.notices.note p {
+    border-top: 20px solid #6441A4;
+    background: #fff;
+    border-style: solid;
+    border-color: #6441A4
+}
+div.notices.note p:first-child:after {
+    content: 'Note';
+}

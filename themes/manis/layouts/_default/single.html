@@ -2,6 +2,7 @@
 <article>
 	<header>{{ partial "title" . }}</header>
 	{{ .Content }}
+    {{ partial "content-footer.html" }}
 </article>
 <nav class="no-print post-nav">
 {{ if .PrevInSection }}
