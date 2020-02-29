@@ -6,11 +6,17 @@ tags = ["marketing"]
 title = "I spent $6 Million On Google Ads Last Year"
 
 +++
-I spent a lot of money on Google Ads last year across Search, Display, Gmail, Youtube, and the new Discover feed.
+I had an unlimited budget. I could spend as much money as I wanted on whatever ads I wanted.
 
-I worked in-house for a technology company with an unlimited ad budget as long as I could hit my profit targets. I grew annual spend from $3 million to $6 million per year because I found creative ways to profitably scale.
+But I had to be profitable.
 
-Here's what I learned.
+I was working in-house for a technology company. We had aggressive revenue targets and I wanted to play a major part in making that happen.
+
+I managed to grow ad spend from $3 million to $6 million per year because I found creative ways to profitably scale my campaigns.
+
+I crushed the revenue targets. 
+
+Here’s what I learned.
 
 ### The Creative Is Everything
 
@@ -20,7 +26,7 @@ A good creative trumps everything else. No amount of planning, research, targeti
 
 A good creative will get you tons of clicks. There's so much machine learning and AI built into digital ads now and they're trained to look early engagement signals. The algorithms will start giving you more and more exposure because they're trained to make money. And engagement makes money.
 
-Always be testing new creatives. What didn't work a year ago could work now, so don't be afraid to revisit past failures and try to breathe fresh life into them.
+Always be testing new creatives. What didn't work a year ago could work now, so don't be afraid to revisit past failures and breathe fresh life into them.
 
 Draw inspiration from other industries. If you're in eCommerce then see what's working well in Mortgage or Auto Insurance. Those highly competitive industries breed insane amounts of innovation because failure to innovate means falling behind the competition.
 
@@ -92,9 +98,9 @@ I can show highly targeted, relevant Youtube ads to those people at 1/5th the co
 
 ### Gmail Ads Can Scale
 
-Gmail generated an incremental 10-20% net conversions each month on top of what I was generating in search. And at comparable CPAs.
+Gmail generated an additional 10-20% net conversions each month on top of what I was generating in search. And at comparable CPAs.
 
-That level of incrementally can make or break your revenue targets.
+That level of incrementality can make or break your revenue targets.
 
 Gmail ads are unique in the Google Ads ecosystem because they require 2 clicks. One click to open the ad like an email, and a 2nd click to the website.
 
@@ -115,4 +121,4 @@ Succeeding at digital marketing is all about iteration. No strategy works foreve
 
 Creative is king. Embrace machine learning and automated bid strategies, especially Google's Target CPA.
 
-If your current campaigns aren't cutting it then [drop me a line](https://nicklafferty.com).
+If your current campaigns aren't cutting it then [drop me a line](mailto: nick@lafferty.co).
