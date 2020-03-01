@@ -8,7 +8,7 @@ layout = "about"
 
 I'm a digital marketer with a passion for technology and SaaS products based in Austin, Texas. I currently work at [Mailgun](https://mailgun.com) where I manage our paid search campaigns, new user onboarding email sequences, and affiliate program. 
 
-I enjoy working with data, solving complex problems, and writing. Check me out on [Medium](https://medium.com/@NickLafferty) where I've been published in The Ascent and Better Marketing. 
+I enjoy working with data, solving complex problems, and writing. Check me out on [Medium](https://medium.com/@NickLafferty) where I've been published in The Ascent, Better Marketing, and The Post-Grad Survival Guide. 
 
 Do you need help generating more leads, running paid search campaigns, building a website, or writing great content? [Send me an email.](mailto:nick@lafferty.co)
 
