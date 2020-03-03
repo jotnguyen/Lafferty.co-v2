@@ -45,7 +45,7 @@ Ok, let's get started!
 5. [Setup Automatic Refresh](#4-schedule-automatic-refresh)
 6. [Build Your Charts](#5-build-your-charts)
 
-### What Is Supermetrics?
+## What Is Supermetrics?
 
 Supermetrics is a tool for the discerning, fast-moving digital marketer. It lets you pull data from a number of ad platforms or databases and dump it somewhere else.
 
