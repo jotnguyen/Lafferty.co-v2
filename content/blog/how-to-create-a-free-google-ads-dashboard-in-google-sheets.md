@@ -185,7 +185,7 @@ Highlight the below columns:
 
 Create a chart in the same way, and you'll get a familiar-looking result. Again, my numbers are fudged.
 
-![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.37.38 PM "Supermetrics Google Sheets Chart")
+![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.50.40 PM.png "Supermetrics Google Sheets Chart")
 
 I made the same changes as the last one:
 
@@ -193,7 +193,7 @@ I made the same changes as the last one:
 * Formatting the numbers and displaying data labels
 * Moving Cost per Conversion to the right axis, and a line graph
 
-  ![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.41.17 PM "Supermetrics Google Sheets Chart")
+  ![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.51.40 PM.png "Supermetrics Google Sheets Chart")
   
 My fake company is crushing it! More conversions at a lower CPA.
 
