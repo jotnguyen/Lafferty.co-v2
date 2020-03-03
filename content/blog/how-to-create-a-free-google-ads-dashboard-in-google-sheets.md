@@ -2,7 +2,7 @@
 affiliate = "true"
 date = 2020-03-02T06:00:00Z
 description = "Learn how to create a Google Ads dashboard using Supermetrics and Google Sheets. Follow along or grab my free template. "
-draft = true
+draft = false
 tags = ["supermetrics"]
 title = "How to Create a Free Google Ads Dashboard in Google Sheets"
 
@@ -160,7 +160,7 @@ Highlight the full columns for:
 
 Once your columns are highlighted, click **Insert → Chart.** You'll get something that looks like this (I've fudged my numbers a bit for privacy).
 
-![Create Google Ads Dashboard](/uploads/Screen Shot 2020-03-02 at 8.37.38 PM.png)
+![Create Google Ads Dashboard](/uploads/Screen Shot 2020-03-02 at 8.37.38 PM.png "Create Google Ads Dashboard")
 
 A decent start, but not readable. Double click your chart, then in the Chart Editor hit Setup → Chart type → Combo Chart (bar and line graph).
 
@@ -170,7 +170,7 @@ It may help to format the numbers in your data too, so you get nice percents.
 
 You should have something like this.
 
-![](/uploads/Screen Shot 2020-03-02 at 8.41.17 PM.png)
+![Google Sheets Dashboard Template](/uploads/Screen Shot 2020-03-02 at 8.41.17 PM.png "Google Sheets Dashboard Template")
 
 Great! This helps me keep an eye on my brand campaigns to stay ahead of any competitors trying to bid on my brand. Usually, if I see my CPCs increase it means someone is conquesting my brand, and I need to look into raising my bids to out price them (they're likely paying 3-4x my CPCs) or file a trademark request if they're using my brand in their ads.
 
@@ -184,7 +184,7 @@ Highlight the below columns:
 
 Create a chart in the same way, and you'll get a familiar-looking result. Again, my numbers are fudged.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2c1bd86-37c8-4a6b-8fa4-e4df2c2288a7/Screen_Shot_2020-03-02_at_8.50.40_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2c1bd86-37c8-4a6b-8fa4-e4df2c2288a7/Screen_Shot_2020-03-02_at_8.50.40_PM.png)
+![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.37.38 PM "Supermetrics Google Sheets Chart")
 
 I made the same changes as the last one:
 
@@ -192,8 +192,8 @@ I made the same changes as the last one:
 * Formatting the numbers and displaying data labels
 * Moving Cost per Conversion to the right axis, and a line graph
 
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/207313b7-65b9-4b6f-995e-287296d018a8/Screen_Shot_2020-03-02_at_8.51.40_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/207313b7-65b9-4b6f-995e-287296d018a8/Screen_Shot_2020-03-02_at_8.51.40_PM.png)
-
+  ![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.41.17 PM "Supermetrics Google Sheets Chart")
+  
 My fake company is crushing it! More conversions at a lower CPA.
 
 ## Wrapping Up
