@@ -37,12 +37,13 @@ Ok, let's get started!
 
 ### Table of Contents
 
-1. What is Supermetrics
-2. How to build a Google Ads Dashboard
-3. [Installing Supermetrics Addon]()
-4. Pull Your Data from Google Ads
-5. Setup Automatic Refresh
-6. Build Your Charts
+1. [What is Supermetrics](#what-is-supermetrics)
+2. [How to build a Google Ads Dashboard](#building-a-google-ads-dashboard)
+3. [Instaling Supermetrics Addon](#1-install-the-supermetrics-google-sheets-addon)
+4. [Connect Your Google Ads Account](#2-connect-your-google-ads-account)
+4. [Pull Your Data from Google Ads](#3-pull-your-data)
+5. [Setup Automatic Refresh](#4-schedule-automatic-refresh)
+6. [Build Your Charts](#5-build-your-charts)
 
 ### What Is Supermetrics?
 
@@ -130,7 +131,7 @@ We're going to build 2 charts, each by week. I like to pull 6 months of data whe
 
 Ok, you're ready! Click **Get Data To Table** and watch everything populate!
 
-### 2. Schedule Automatic Refresh
+### 4. Schedule Automatic Refresh
 
 Before we build the charts, let's schedule an automatic refresh so our data updates every week. Click **Add-ons → Supermetrics → Schedule Refresh and Emailing.**
 
@@ -142,7 +143,7 @@ Make sure to click **Store Trigger** at the bottom right, otherwise, it won't be
 
 ![Supermetrics for Google Sheets Scheduled Refresh](/uploads/Screen Shot 2020-03-02 at 8.30.54 PM.png "Supermetrics for Google Sheets")
 
-### 3. Build Your Charts
+### 5. Build Your Charts
 
 Time to build the charts in our sweet Google Ads Dashboard! If you haven't already, rename the sheet with your data in it something like _Raw Data_, just to keep this organized.
 
