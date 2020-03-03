@@ -27,7 +27,7 @@ Eventually, I started submitting my writing to publications more often, not cari
 
 **I feel a lot of pressure if I haven't published anything by the evening**. I often spent my whole evening writing, rewriting, and fretting over what I'm going to publish that day. I set high standards for the quality of my work and I don't want to put shit out there.
 
-**It built a writing habit**. I write because I have to, but I also really like it. I'm still keeping up my journal, and publishing every day, and I [launched a newsletter](https://1word.email).
+**I built a writing habit**. I write because I have to, but I also really like it. I'm still keeping up my journal, and publishing every day, and I [launched a newsletter](https://1word.email).
 
 I received way more views this month compared to last month. 8,000 views this month compared to 500 last month.
 
