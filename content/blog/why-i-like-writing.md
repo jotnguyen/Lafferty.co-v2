@@ -18,7 +18,7 @@ I'm not going to describe today's internet because you know what it is, and it'l
 
 This isn't my "I walked to school uphill both ways in the snow" story. But it starts with how I've used the internet.
 
-As a result, I've struggled with internet and gaming addiction. I've wasted entire days playing video games for years on end. I've skipped classes in college to play because it was more fun. I've even spent time in class playing stupid games on my iPod touch instead of paying attention to what I was paying to learn.
+I've struggled with internet and gaming addiction. I've wasted entire days playing video games for years on end. I've skipped classes in college to play because it was more fun. I've even spent time in class playing stupid games on my iPod touch instead of paying attention to what I was paying to learn.
 
 I was good at consuming. I used to be plugged into the piracy scene and knew how to get music, movies, tv shows, and more for free. As an adult now I pay for these things because I recognize why creators should be compensated for their work, but as a kid with no money, it was either pirate or go without. So I pirated.
 
