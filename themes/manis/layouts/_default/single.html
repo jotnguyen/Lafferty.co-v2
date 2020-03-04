@@ -3,7 +3,6 @@
 	<header>{{ partial "title" . }}</header>
 	{{ .Content }}
     {{ if eq .Kind "page" }}
-    {{ partial "ads.html" }}
     {{ partial "content-footer.html" }}
     {{ end }}
 </article>
