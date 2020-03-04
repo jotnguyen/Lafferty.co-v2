@@ -32,7 +32,7 @@ Let me explain.
 
 ## Creation is rewarding
 
-As a kid, I used to be more creative. I'd devour fantasy books, DragonLance, a series with wizards, elves, and (obviously) dragons was my favorite series even though my parents thought Dungeons & Dragons was the devil. That book series started after two people wanted to breathe more life into their D&D characters, and started writing more backstory about them. That backstory morphed into a massive series of books, but it wasn't called Dungeons & Dragons so my parents were ok with it.
+As a kid, I used to be more creative. I'd devour fantasy books like DragonLance, a series with wizards, elves, and (obviously) dragons was my favorite series even though my parents thought Dungeons & Dragons was the devil. That book series started after two people wanted to breathe more life into their D&D characters, and started writing more backstory about them. That backstory morphed into a massive series of books, but it wasn't called Dungeons & Dragons so my parents were ok with it.
 
 Then I got into a series of books called MechWarrior, which was just giant robots with lasers and rockets fighting wars. Giant robots were, and still are, super cool.
 
