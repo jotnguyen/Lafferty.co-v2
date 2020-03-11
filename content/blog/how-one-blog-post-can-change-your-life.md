@@ -14,7 +14,7 @@ But I never expected that kind of response. Before that my most popular post had
 
 The outreach on that post has been incredible:
 
-* Emails asking if I'm available for consulting ([I am!](https://nicklafferty.com))
+* Emails asking if I'm available for consulting ([I am!](mailto:nick@lafferty.co))
 * 3,000 extra views on LinkedIn, where multiple people in my network shared it.
 * Multiple other publications asking if they can republish my article, some of them with tens of millions of views every month.
 
