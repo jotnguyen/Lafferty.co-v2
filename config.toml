@@ -16,7 +16,6 @@ disqusShortname = ""
 defaultContentLanguage = "en"
 
 # Google Analytics
-googleAnalytics = "UA-41314241-2"
 
 # Code Highlighting (Chroma)
 pygmentsCodeFences = true

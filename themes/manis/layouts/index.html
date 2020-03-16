@@ -8,7 +8,7 @@
 	{{ $postsection := .Site.Params.PostSection | default "post" }}
 	<section>
         <h4>About</h4>
-        {{ with .Site.GetPage "/about" }}{{ .Content }}{{ end }}
+        {{ partial "about.html" }}
         <hr class="sep" />
     </section>
     

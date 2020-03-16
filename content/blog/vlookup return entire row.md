@@ -12,7 +12,7 @@ I know how to do a VLOOKUP in Google Sheets, but I didn't know how to VLOOKUP th
 
 The quick solution for you to copy and paste is below, and the longer more detailed reasoning is at the bottom. 
 
-## Here’s the quick formula
+## Here’s the Vlookup Formula
 
 `=ARRAYFORMULA(VLOOKUP(A1,'Sheet2'!A3:G6,{2,3,4,5,6,7},FALSE))`
 
